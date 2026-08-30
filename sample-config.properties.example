@@ -1,0 +1,19 @@
+# Copy the required entries into the existing local.properties file.
+# local.properties is ignored by Git and must never be committed.
+
+# Use a dedicated Bazaar/Inappify test application whenever possible.
+inappify.sample.applicationId=com.example.inappify.sample
+inappify.sample.versionCode=1
+inappify.sample.versionName=1.0
+
+# Inappify Android App Key and Cafe Bazaar RSA public key.
+inappify.sample.apiKey=
+inappify.sample.bazaarPublicKey=
+inappify.sample.country=IR
+
+# Optional: required only when Bazaar expects a particular signing certificate.
+# Relative paths are resolved from the repository root; absolute paths also work.
+inappify.sample.storeFile=
+inappify.sample.storePassword=
+inappify.sample.keyAlias=
+inappify.sample.keyPassword=

@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">InappifyAndroid</string>
+    <string name="app_name">Inappify SDK Sample</string>
+    <string name="sample_title">آزمایش SDK نیتیو Inappify</string>
+    <string name="sample_description">Configure، اطلاعات مشتری، Offeringها و خرید کافه‌بازار را در این صفحه آزمایش کنید.</string>
+    <string name="api_key_hint">Android App Key</string>
+    <string name="bazaar_public_key_hint">کلید عمومی RSA کافه‌بازار</string>
+    <string name="app_user_id_hint">شناسه کاربر (اختیاری)</string>
+    <string name="configure_action">Configure</string>
+    <string name="customer_info_action">Customer Info</string>
+    <string name="offerings_action">Offerings</string>
+    <string name="sync_purchases_action">بازیابی خریدها</string>
+    <string name="session_section_title">وضعیت نشست</string>
+    <string name="customer_section_title">اطلاعات مشتری</string>
+    <string name="offerings_section_title">Offeringها و محصولات</string>
+    <string name="events_section_title">گزارش عملیات</string>
+    <string name="not_configured">SDK هنوز Configure نشده است.</string>
+    <string name="no_customer_info">اطلاعات مشتری هنوز دریافت نشده است.</string>
+    <string name="no_offerings">Offering قابل نمایشی دریافت نشده است.</string>
+    <string name="no_events">هنوز عملیاتی اجرا نشده است.</string>
+    <string name="missing_configuration">Android App Key و کلید عمومی بازار را وارد کنید.</string>
+    <string name="purchase_action">خرید از بازار</string>
+    <string name="trial_purchase_action">شروع دوره آزمایشی / خرید</string>
+    <string name="default_offering">پیش‌فرض</string>
+    <string name="operation_in_progress">در حال انجام عملیات…</string>
 </resources>
